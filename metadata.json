@@ -1,0 +1,7 @@
+{
+  "name": "正畸伴侣 (OrthoMate)",
+  "description": "全能隐形牙套佩戴追踪器。包含计时、日历统计、牙齿变化对比及换托盘提醒功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
